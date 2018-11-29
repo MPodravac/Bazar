@@ -1,0 +1,41 @@
+body
+{
+	margin-top: 60px;
+	background-color: #e6e5f4;
+}
+
+.akcija-btn
+{
+	margin-top: 5px;
+	margin-bottom:10px;
+}
+
+.main 
+{
+    background-color: white;
+}
+
+.btn-alert
+{
+	margin-top: 10px;
+}
+
+#studentiTablica, #nastavniciTablica
+{
+	margin-top: 10px;
+}
+
+td, th
+{
+	text-align: center;
+}
+
+thead
+{
+	background-color: #e6e5f4;
+}
+
+#login-str
+{
+	text-align: center;
+}
